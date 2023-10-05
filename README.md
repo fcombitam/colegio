@@ -46,3 +46,22 @@ Para descargar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
    ```bash
    php artisan serve
+
+## INICIAR SESION
+
+Para iniciar sesion:
+
+1. El usuario es.
+
+   ```bash
+   admin@email.com
+   
+2. Contraseña:
+
+   ```bash
+   password
+
+## para ver la api
+
+   ```bash
+   tu/dominio.test/api/api-consume
