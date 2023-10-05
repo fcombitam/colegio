@@ -64,4 +64,4 @@ Para iniciar sesion:
 ## para ver la api
 
    ```bash
-   tu/dominio.test/api/api-consume
+   tu-dominio.test/api/api-consume
