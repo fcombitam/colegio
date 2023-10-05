@@ -37,7 +37,7 @@ Para descargar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
    ```bash
    php artisan key:generate
 
-8. Ejecuta las migraciones de la base de datos y las semillas (debes tener creada la base de datos):
+8. Ejecuta las migraciones de la base de datos y las semillas (debes tener creada la base de datos llamada claretiano):
 
    ```bash
    php artisan migrate:fresh --seed
